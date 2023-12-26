@@ -1,0 +1,80 @@
+[
+    {
+        "job_title": "Разработчик Python",
+        "salary": "до 150 000 ₽",
+        "company": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+        "url": "https://spb.hh.ru/vacancy/90789260?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Backend разработчик",
+        "salary": "70 000 – 100 000 ₽",
+        "company": "ООО Вервэб",
+        "url": "https://spb.hh.ru/vacancy/90356190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Front-end разработчик",
+        "salary": "90 000 – 150 000 ₽",
+        "company": "АФК, группа компаний",
+        "url": "https://spb.hh.ru/vacancy/90336035?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Разработчик Python (Flask/Django), Vue",
+        "salary": "от 200 000 ₽",
+        "company": "ООО УЦ Профстандарт",
+        "url": "https://spb.hh.ru/vacancy/90525243?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Python-разработчик",
+        "salary": "до 450 000 ₽",
+        "company": "Точка",
+        "url": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Python разработчик",
+        "salary": "от 120 000 ₽",
+        "company": "ООО СмартБрик",
+        "url": "https://spb.hh.ru/vacancy/90380232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Middle Python-разработчик",
+        "salary": "140 000 – 250 000 ₽",
+        "company": "AERODISK",
+        "url": "https://spb.hh.ru/vacancy/89271317?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Технический директор/IT директор (R&D)",
+        "salary": "от 200 000 ₽",
+        "company": "ООО Кобак Лаб",
+        "url": "https://spb.hh.ru/vacancy/90356521?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Middle Python-разработчик (Инженер-программист 2 категории)",
+        "salary": "от 130 000 ₽",
+        "company": "АО Моринформсистема-Агат, Концерн",
+        "url": "https://spb.hh.ru/vacancy/85608307?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Middle Python backend developer",
+        "salary": "110 000 – 180 000 ₽",
+        "company": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+        "url": "https://spb.hh.ru/vacancy/90143523?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Системный программист / разработчик Python",
+        "salary": "150 000 – 300 000 ₽",
+        "company": "Carbon Soft",
+        "url": "https://spb.hh.ru/vacancy/89431081?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+        "salary": "180 000 – 250 000 ₽",
+        "company": "ООО РА Дельта",
+        "url": "https://spb.hh.ru/vacancy/90095078?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    },
+    {
+        "job_title": "Middle Python developer",
+        "salary": "150 000 – 200 000 ₽",
+        "company": "ООО Селфсек",
+        "url": "https://spb.hh.ru/vacancy/72687504?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+flask"
+    }
+]
